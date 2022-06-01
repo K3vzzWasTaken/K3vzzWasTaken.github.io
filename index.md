@@ -4,7 +4,7 @@ permalink: /
 permalink_name: /home
 title: cat k3vzz/Hi.txt
 
-detail_image: assets/theme_logo.svg
+detail_image: assets/kevzzbar.PNG
 
 ---
 
