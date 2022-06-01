@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-permalink_name: /home
+permalink_name: /Hi.txt
 title: cat k3vzz/Hi.txt
 
 detail_image: assets/kevzzbar.PNG
