@@ -4,7 +4,7 @@ permalink: /
 permalink_name: /Hi.txt
 title: cat k3vzz/Hi.txt
 
-detail_image: assets/kevzzbar.PNG
+detail_image: assets/kevzzbuena.PNG
 
 ---
 
