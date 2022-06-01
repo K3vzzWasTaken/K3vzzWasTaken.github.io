@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 permalink_name: /home
-title: cat Hi.txt
+title: cat k3vzz/Hi.txt
 
 detail_image: assets/theme_logo.svg
 
