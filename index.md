@@ -2,13 +2,13 @@
 layout: home
 permalink: /
 permalink_name: /home
-title: Hi!
+title: cat "Hi.txt"
 
 detail_image: assets/theme_logo.svg
 
 ---
 
-# Hi!
+# Who I am?
 
 **Hi! im k3vzz**. I break stuff 4 fun & profit. 
 
