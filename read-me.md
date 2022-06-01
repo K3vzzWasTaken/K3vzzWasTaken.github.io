@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /read-me
-permalink_name: /read me
-title: README.md
+permalink_name: /readme.txt
+title: k3vzz | README.txt
 ---
 
-{% include_relative README.md %}
+a
