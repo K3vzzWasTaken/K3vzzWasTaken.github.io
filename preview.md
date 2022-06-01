@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blog
+permalink: /bloginfo
 permalink_name: /blog.txt
 title: cat k3vzz/blog.txt
 ---
