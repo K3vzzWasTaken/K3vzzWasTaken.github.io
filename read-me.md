@@ -9,6 +9,7 @@ Job:
 AppSec Engineer @ Hackmetrix (2021-Now)
 
 Certifications:
+OSCP
 eJPT
 
 Stuff:
