@@ -10,11 +10,8 @@ AppSec Engineer @ Hackmetrix (2021-Now)
 
 Certifications:
 OSCP
+CAPenX
 eJPT
-
-Stuff:
-CVE-2018-16203 Exploit
-Pinche Hackers Presentation
 
 Education:
 Computational Systems Engineering @ ESCOM IPN
