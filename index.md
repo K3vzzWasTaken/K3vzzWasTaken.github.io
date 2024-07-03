@@ -10,7 +10,7 @@ detail_image: assets/k3vzzbuena.PNG
 
 # Who I am?
 
-**Hi! im k3vzz**. I break stuff 4 fun & profit. 
+**Hi! im k3vzz**. I break stuff 4 fun! 
 
-I also like the streetwear btw.
+I also like the fashion world btw.
 
