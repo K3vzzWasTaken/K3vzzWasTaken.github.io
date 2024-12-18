@@ -6,7 +6,7 @@ title: cat k3vzz/Projects&Job.txt
 ---
 
 Job:
-AppSec Engineer @ Hackmetrix (2021-Now)
+Academy Tech Lead @ Hackmetrix (2021-Now)
 
 Certifications that i have:
 OSCP - OffSec Certified Professional
